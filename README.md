@@ -1,7 +1,7 @@
 # BloomTech-DS-41
 Course Work from BloomTech Institute Of Technology Data Science Program 
 
-Sprint 1 : Data Wrangling and Storytelling /
+Sprint 1 : Data Wrangling and Storytelling //
 Sprint 2 : Statistical Tests and Experiments 
 Sprint 3 : Introduction to Linear Models 
 Sprint 5 : Linear Models
